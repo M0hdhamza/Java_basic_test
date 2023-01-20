@@ -8,4 +8,7 @@ public class HelloWorld {
 	static {
 		System.out.println("this is Static");
 	}
+	static {
+		System.out.println("test");
+	}
 }
