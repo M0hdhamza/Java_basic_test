@@ -6,7 +6,7 @@ public class DataTypes {
 		byte a = -50;
 		short b = 100;
 		int c = 250;
-		long d = 10000;
+		long d = 10000000000l;
 		char e = 'A';
 		double f = 1111.000;
 		float g = 12f;
